@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">AliCalendar</string>
+    <string name="welcome_message">Welcome %1$s</string>
+    <string name="days_counted_format">%1$d days counted</string>
+    <string name="streak_format">🔥 %1$d</string>
+    <string name="default_name">Ali Hussein</string>
+    <string name="guide_tap">• Tap a day to add a note</string>
+    <string name="guide_check">• click the box to mark it or tick</string>
+    <string name="guide_streak">• keep the continuity to complete the streak</string>
+    <string name="guide_stats">• for more features, gorgrek ewek🫣</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="close">Close</string>
+    <string name="nav_reminder_time">Reminder Time</string>
+    <string name="reminder_time_dialog_title">Set Daily Reminder Time</string>
+    <string name="reminder_time_updated">Reminder time updated</string>
+    <string name="monthly_progress">Monthly Progress</string>
+    <string name="progress_details_format">%1$d of %2$d days completed</string>
+    <string name="percent_format">%1$d%%</string>
+    <string name="status_not_counted">Not Counted</string>
+    <string name="status_counted">Counted Today</string>
+    <string name="today_note">Today\'s Note</string>
+    <string name="tap_to_add_note">Tap a day to add a note for today...</string>
+    <string name="welcome_title">Welcome</string>
+    <string name="welcome_subtitle">Let\'s make today count</string>
+    <string name="menu_header">Calendar Menu</string>
+    <string name="about_title">About AliCalendar</string>
+    <string name="about_version">AliCalendar v3.1</string>
+    <string name="about_description">A simple calendar to track your daily progress. Every tick is a step towards your goal.</string>
+    <string name="author_label">Behind the code:</string>
+    <string name="author_name">a.karim abafira</string>
+    <string name="telegram">Telegram</string>
+    <string name="instagram">Instagram</string>
+    <string name="edit_name_title">Edit Your Name</string>
+    <string name="name_updated">Name updated!</string>
+    <string name="note_dialog_title">Add Note</string>
+    <string name="note_hint">Write something here...</string>
+    <string name="nav_jump_today">🗓️Jump to Today</string>
+    <string name="nav_view_history">🧾View Ticked History</string>
+    <string name="nav_dark_mode">🕶️Dark Mode</string>
+    <string name="nav_about">❔About</string>
+    <string name="nav_edit_name">📝Edit Name</string>
+
+    <!-- Dialogs and Messages -->
+    <string name="no_days_counted">No days counted yet!</string>
+    <string name="history_title">History</string>
+    <string name="untick_dialog_title">Untick Day?</string>
+    <string name="untick_dialog_message">Do you want to untick %1$s?</string>
+    <string name="untick_action">Untick</string>
+    <string name="day_unticked">Day unticked</string>
+    <string name="remove_tick_title">Remove Tick</string>
+    <string name="remove_tick_message">Are you sure you want to untick this day?</string>
+    <string name="yes">Yes</string>
+
+    <string name="milestone_title">Milestone Reached!</string>
+    <string name="milestone_message">Congratulations %1$s! You have tracked %2$d days.</string>
+    <string name="milestone_action">Awesome!</string>
+    <string name="streak_celebration">Amazing! %1$d day streak!</string>
+
+    <string name="stats_history_format">Total Tracked: %1$d\nStreak: %2$d days (Max: %3$d)\n\nTicked history⬇️</string>
+    <string name="checked_at">Checked at %1$s</string>
+    <string name="time_not_recorded">Time not recorded</string>
+    <string name="add_notes_for">Add notes for %1$s</string>
+
+    <string-array name="motivation_quotes">
+        <item>You did it!</item>
+        <item>Keep going!</item>
+        <item>Achieved it again!</item>
+        <item>Keep it up!</item>
+        <item>Consistency is key!</item>
+        <item>One step closer!</item>
+        <item>Great job!</item>
+    </string-array>
+</resources>

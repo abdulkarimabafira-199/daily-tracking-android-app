@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.AliCalendar" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/ali_indigo</item>
+        <item name="colorSecondary">@color/ali_teal</item>
+        <item name="android:statusBarColor">@color/surface_white</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">@color/background_gray</item>
+        <!-- Global Button Animation -->
+        <item name="android:stateListAnimator">@animator/button_burst</item>
+    </style>
+</resources>

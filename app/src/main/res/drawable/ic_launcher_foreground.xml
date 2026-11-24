@@ -1,0 +1,42 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="14"
+        android:translateY="16">
+        <!-- Calendar body -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M6,14 h68 a6,6 0,0 1,6 6 v54 a6,6 0,0 1,-6 6 h-68 a6,6 0,0 1,-6 -6 v-54 a6,6 0,0 1,6 -6 Z" />
+        <!-- Header strip -->
+        <path
+            android:fillColor="#4F5DFF"
+            android:pathData="M6,14 h68 a6,6 0,0 1,6 6 v10 h-80 v-10 a6,6 0,0 1,6 -6 Z" />
+        <!-- Rings -->
+        <path
+            android:fillColor="#2B2D42"
+            android:pathData="M20,6 h6 v16 h-6 z" />
+        <path
+            android:fillColor="#2B2D42"
+            android:pathData="M54,6 h6 v16 h-6 z" />
+        <!-- Grid dots -->
+        <path
+            android:fillColor="#D6D9E6"
+            android:pathData="M14,46 h8 v8 h-8 z M32,46 h8 v8 h-8 z M50,46 h8 v8 h-8 z" />
+        <path
+            android:fillColor="#D6D9E6"
+            android:pathData="M14,62 h8 v8 h-8 z" />
+        <!-- Tick box (checked) representing the tally check -->
+        <path
+            android:fillColor="#2DD4BF"
+            android:pathData="M46,58 h16 a4,4 0,0 1,4 4 v16 a4,4 0,0 1,-4 4 h-16 a4,4 0,0 1,-4 -4 v-16 a4,4 0,0 1,4 -4 Z" />
+        <path
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="3.4"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:pathData="M48,68 l5,5 l9,-11" />
+    </group>
+</vector>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Brand -->
+    <color name="ali_indigo">#4F5DFF</color>
+    <color name="ali_indigo_dark">#3A46D6</color>
+    <color name="ali_teal">#2DD4BF</color>
+    <color name="ali_coral">#FF6B6B</color>
+    <color name="ali_gold">#FFC857</color>
+    <color name="ali_green">#4CAF50</color>
+    <color name="ali_bright_green">#00FF00</color>
+    <color name="ali_bright_red">#FF0000</color>
+    <color name="ali_orange">#FF9800</color>
+
+    <!-- Neutrals -->
+    <color name="background_gray">#F6F7FB</color>
+    <color name="surface_white">#FFFFFF</color>
+    <color name="text_dark">#2B2D42</color>
+    <color name="text_light">#9AA0B4</color>
+    <color name="text_muted">#C4C8D6</color>
+    <color name="divider">#EDEFF6</color>
+
+    <!-- Day cell states -->
+    <color name="today_bg">#EEF0FF</color>
+    <color name="other_month_text">#D6D9E6</color>
+    <color name="insight_bg">#F0F2F8</color>
+
+    <!-- Tick / prisoner-count box -->
+    <color name="tick_box_border">#C7CBE0</color>
+    <color name="tick_box_checked">#4CAF50</color>
+
+    <!-- Welcome overlay -->
+    <color name="welcome_bg_start">#FFFFFF</color>
+    <color name="welcome_bg_center">#FFFFFF</color>
+    <color name="welcome_bg_end">#FFFFFF</color>
+    <color name="welcome_text_sub">#9AA0B4</color>
+    <color name="welcome_circle">#26FFFFFF</color>
+    <color name="welcome_badge_bg">#FFFFFF</color>
+
+    <!-- UI Elements -->
+    <color name="ripple_light">#204F5DFF</color>
+    <color name="ripple_medium">#304F5DFF</color>
+</resources>
